@@ -1,14 +1,21 @@
 
 import './App.css'
-import Header from './Components/Header/Header'
+import Livechat from './Components/LiveChat/Livechat'
+import Navber from './Components/Navber/Navber'
+import Priceoptions from './Components/PriceOptions/Priceoptions'
+import Daisyui from './Components/daysiUe/Daisyui'
+
 
 function App() {
 
 
   return (
     <>
-   <Header></Header>
-     
+   
+     <Daisyui></Daisyui>
+     <Navber></Navber>
+     <Priceoptions></Priceoptions>
+     <Livechat></Livechat>
     </>
   )
 }

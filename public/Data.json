@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "name": "Nike Air Max 270",
+        "details": "The Nike Air Max 270 is a stylish and comfortable sneaker. It features a large Air Max unit for excellent cushioning, a breathable mesh upper, and a rubber outsole for traction.",
+        "price": 139.99,
+        "features": [
+          "Air Max cushioning",
+          "Breathable mesh upper",
+          "Durable rubber outsole",
+          "Stylish design"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "New Balance 990v5",
+        "details": "The New Balance 990v5 is a classic running shoe known for its stability and comfort. It features a pigskin suede and mesh upper, ENCAP midsole technology, and a blown rubber outsole.",
+        "price": 174.99,
+        "features": [
+          "Stability and support",
+          "Pigskin suede and mesh upper",
+          "ENCAP midsole technology",
+          "Blown rubber outsole",
+          "Reflective accents"
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Adidas Superstar",
+        "details": "The Adidas Superstar is an iconic sneaker with a classic design. It features a leather upper, rubber shell toe, and herringbone-pattern rubber outsole for traction.",
+        "price": 79.99,
+        "features": [
+          "Iconic design",
+          "Leather upper",
+          "Rubber shell toe",
+          "Herringbone-pattern outsole",
+          "Signature 3-Stripes"
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Puma Future Rider",
+        "details": "The Puma Future Rider is a retro-inspired sneaker with a lightweight design. It features a nylon upper, shock-absorbing Rider Foam midsole, and a rubber outsole for grip.",
+        "price": 89.99,
+        "features": [
+          "Retro-inspired design",
+          "Lightweight nylon upper",
+          "Rider Foam midsole",
+          "Durable rubber outsole",
+          "Variety of color options"
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Reebok Classic Leather",
+        "details": "The Reebok Classic Leather is a timeless sneaker known for its versatility. It features a soft leather upper, EVA midsole for cushioning, and a high-abrasion rubber outsole.",
+        "price": 69.99,
+        "features": [
+          "Timeless design",
+          "Soft leather upper",
+          "EVA midsole",
+          "High-abrasion rubber outsole",
+          "Wide range of colorways"
+        ]
+      }
+      
+      
+      
+      
+]
